@@ -1,4 +1,5 @@
 import initialCards from '../mocks/mocks'
+console.log(initialCards)
 
 const cards = document.querySelector('.places-list');
 const userInfoName = document.querySelector('.user-info__name');
